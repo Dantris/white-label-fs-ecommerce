@@ -1,2 +1,5 @@
-# white-label-fs-ecommerce
-This is a white label full stack e-commerce template
+<<<<<<< HEAD
+This is your local change.
+=======
+This is the remote change.
+>>>>>>> branch-name
